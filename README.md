@@ -1,18 +1,14 @@
-# Ultimate Angular: Pro App
+## Live demo of contacts manager tool.
 
-> This repo is the solution for the Ultimate Angular 1.x Pro course
+[Here's the app](https://contacts-manager-e486f.firebaseapp.com) Create an user or login to get started.
 
-----
+> This repo is the solution for the [Ultimate Angular 1.x Pro course](https://ultimateangular.com/angular-1-pro)
 
-## Live demo of app
-
-[Here's the app](https://contacts-manager-e486f.firebaseapp.com) you're about to build, check it out! Create a user or login to get started with the contacts manager.
-
-## Setup and install
+## Setup and install the project
 
 Follow the steps below for setting everything up (if you have some of these already, skip to the next step where appropriate):
 
-1. Download and install [Node.js here](https://nodejs.org/en/download/) for Windows or for Mac.
+1. Download and install [Node.js here](https://nodejs.org/en/download/)
 2. Install Firebase CLI on the command-line with `npm install -g firebase-tools`
 3. Install Gulp CLI on the command-line with `npm install -g gulp`
 
