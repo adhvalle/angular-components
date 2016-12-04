@@ -1,4 +1,4 @@
-## Live demo of contacts manager tool.
+## Live demo for a contacts manager tool.
 
 [Here's the app](https://contacts-manager-e486f.firebaseapp.com) Create an user or login to get started.
 
