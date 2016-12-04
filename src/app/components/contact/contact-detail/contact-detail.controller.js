@@ -12,6 +12,22 @@ function ContactDetailController() {
       }
     });
   };
+
+  ctrl.updateContact = function() {
+    ctrl.onUpdate({
+      $event: {
+        contact: ctrl.contact
+      }
+    });
+  };
+
+  ctrl.deleteContact = function() {
+    ctrl.onDelete({
+      $event: {
+        contact: ctrl.contact
+      }
+    });
+  };
 }
 
 angular
