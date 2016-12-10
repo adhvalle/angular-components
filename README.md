@@ -1,6 +1,6 @@
 ## Live demo for a contacts manager tool.
 
-[Here's the app](https://contacts-manager-e486f.firebaseapp.com) Create an user or login to get started.
+[Here's the app](https://contacts-manager-a5c89.firebaseapp.com) Create an user or login to get started.
 
 > This repo is the solution for the [Ultimate Angular 1.x Pro course](https://ultimateangular.com/angular-1-pro)
 
