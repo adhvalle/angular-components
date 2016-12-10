@@ -1,6 +1,6 @@
 function ContactsController($filter, $state) {
   var ctrl = this;
-  this.contacts = ctrl.contacts;
+  var contacts = ctrl.contacts;
 
   ctrl.filteredContacts = $filter('contactsFilter')(contacts, ctrl.filter);
 

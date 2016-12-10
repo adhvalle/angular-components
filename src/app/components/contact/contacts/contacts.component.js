@@ -24,7 +24,7 @@ angular
         resolve: {
           contacts: function(ContactService) {
             return ContactService.getContactList().$loaded();
-          }
+          },
           filter: function($transition$) {
             return $transition$.params();
           }
